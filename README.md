@@ -28,9 +28,9 @@ Paragraphs in Markdown are the default text layout. If you just type text it wil
 
 ---
 
-1) Way no 1 ==> _Italics Text_
+1) Way no 1 ==> _Italics Text_ [Add _ with text and _ at the end ]
 
-2) Way no 2 ==> *Italics Text*
+2) Way no 2 ==> *Italics Text*  [Add * with text and * at the end ]
 
 ---
 
@@ -38,9 +38,9 @@ Paragraphs in Markdown are the default text layout. If you just type text it wil
 
 ---
 
-1) Way no 1 ==> **Bold Text**
+1) Way no 1 ==> **Bold Text**  [Add ** with text and ** at the end ]
 
-2) Way no 2 ==> __Bold Text__
+2) Way no 2 ==> __Bold Text__  [Add __ with text and __ at the end ]
 
 ---
 
@@ -58,7 +58,7 @@ To add a website link
 
 [Visit my website](https://w3schools.com)
 
-To add tooltip in the website link
+To add a tooltip in the website link
 
 [Welcome](https://w3schools.com "W3Schools")
 
@@ -70,7 +70,7 @@ To add tooltip in the website link
 
 ![Alt](https://www.w3schools.com/favicon.ico)
 
-To add tooltip in the images
+To add a tooltip in the images
 
 ![Alt](https://www.w3schools.com/favicon.ico "W3Schools")
 
@@ -100,12 +100,12 @@ To add tooltip in the images
 
 ## To add horizontal line
 
-1. <hr>
-2. ----
+1. <hr>  [Add hr tag]
+2. ----  [Add -----]
 
 ---
 
-## To add blockquote
+## To add a blockquote
 
 ---
 
@@ -115,7 +115,7 @@ To add tooltip in the images
 
 ---
 
-## To add dot
+## To add a dot
 
 ---
 
@@ -143,7 +143,7 @@ To add tooltip in the images
 
 1. JavaScript Code Snippet
 
-```js
+``` js
 
 console.log("Hello World");
 
@@ -184,14 +184,14 @@ select * from user_table where username = "Hello World";
 <!Doctype html>
 <html>
 <head>
-    <meta name="description" content="This is a HTML Code snippet">
+    <meta name="description" content=" This is an HTML Code snippet">
     <title>Hello World</title>
 </head>
 
 <body>
 
     <h1> Hello World </h1>
-    <p> This is a HTML document. </p>
+    <p> This is an HTML document. </p>
 
 </body>
 
@@ -204,15 +204,15 @@ select * from user_table where username = "Hello World";
 ```css
 
 h1{
-    background-color : aqua;
-    font-weight : 700;
-    font-size : 20px;
-    color : red;
-    line-height : 1rem;
+    background-color: aqua;
+    font-weight: 700;
+    font-size: 20px;
+    color: red;
+    line-height: 1rem;
     padding : 1rem 1rem;
     margin : 1rem 1rem;
     border : 1px solid black;
-    border-radius : 15px;
+    border-radius: 15px;
     box-shadow : 0 0 3px 3px;
 }
 
@@ -224,7 +224,7 @@ h1{
 
 git init
 
-git add .
+git add.
 
 git commit -m "First Commit"
 
@@ -246,10 +246,10 @@ git logs
     "city": "New York",
     "isManager": false,
     "isEmployee": true,
-    "hobbies": ["cricket","chess","footbal"],
+    "hobbies": ["cricket", "chess","football"],
     "address": {
         "street": "123 Main St",
-        "state": "karnataka",
+        "state": "Karnataka",
         "pincode": 12345
     }
 }
@@ -285,7 +285,7 @@ H<sub>2</sub>O
 
 This is a `for` loop example
 
-```js
+``` js
 
 // for loop example using js code.
 
@@ -294,3 +294,11 @@ for(let i=1;i<=10;i++){
 }
 
 ```
+
+----
+
+![212746035-d5c61762-973c-44c0-aec7-887f3b7690e3](https://github.com/user-attachments/assets/b2782922-578a-4e8e-99c0-51a8cf5e0ce0)
+
+----
+
+

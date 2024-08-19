@@ -295,6 +295,10 @@ for(let i=1;i<=10;i++){
 
 ```
 
+-----
+
+Credits: [Tirtha Sharma](https://github.com/genze121 "Tirtha Sharma")
+
 ----
 
 ![212746035-d5c61762-973c-44c0-aec7-887f3b7690e3](https://github.com/user-attachments/assets/b2782922-578a-4e8e-99c0-51a8cf5e0ce0)
